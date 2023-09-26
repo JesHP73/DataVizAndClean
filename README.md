@@ -141,4 +141,4 @@ Mastering the art of data analysis and visualization is crucial for extracting v
 
 # **Tools & Libraries**
 
-
+![Alt text](skill_set_need_it.png)
