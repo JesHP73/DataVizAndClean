@@ -55,6 +55,21 @@ As one dive deep, consider the following questions:
 - How many orders are there? 
 - How should revenue be computed?
 - What are the top 5 brands?
+- How many products are there?
+- Define the products category.
+- What period of time do these orders comprise?
+- How many **orders** are **Completed**?
+- 	Where are the “key” data columns connection between them?
+- How should be discount computed?
+- What is the average % discount given to all products in completed orders?
+- Define massive discount and low discount.
+- Define Hight, medium and low value products depending on the average price.
+- When it has been beneficial in terms of revenue to include discounts?
+- What is the average difference between total_paid and unit_price_total?
+- What is the distribution of these differences?
+- Can all the differences be explained by shipping costs? If not, what are other plausible explanations?
+- If there are differences that you can’t explain: what should you do with these orders?
+
 
 ## Data Cleaning
 
